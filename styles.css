@@ -23,7 +23,7 @@ body {
 
 }
 
-.button {
+.buttons {
     text-align: center;
 }
 
@@ -36,6 +36,7 @@ button i {
     font-size: 2rem;
     padding: 10px;
     color: #fff;
+    width: 50px;
 }
 
 #play {
