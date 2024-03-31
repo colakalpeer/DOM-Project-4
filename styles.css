@@ -1,6 +1,7 @@
 body {
     height: 100vh;
-    background: url(img/project-4.jpg) no-repeat center center/cover;
+    background: url(img/project-4.jpg) no-repeat center center/
+    cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,7 +29,7 @@ body {
 }
 
 button {
-    margin: 10px;
+    margin: 0 10px;
     border: none;
 }
 
