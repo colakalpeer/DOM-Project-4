@@ -21,7 +21,6 @@ body {
     text-align: center;
     margin: 0px auto;
     padding: 35px;
-
 }
 
 .buttons {
@@ -41,7 +40,7 @@ button i {
 }
 
 #play {
-    background-color: red;
+    background-color: green;
 }
 
 #pause {
